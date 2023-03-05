@@ -18,7 +18,7 @@ imprimir(SOMA);**
 
 
 **2 - Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem que desejar onde, informado um número, ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.**
->Resposta no arquivo ["2_fibonacci.py"]:
+>Resposta no arquivo ["2_fibonacci"]:
 
 
 **3 - Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:
@@ -49,7 +49,7 @@ b) Evite usar funções prontas, como, por exemplo, reverse;**
 
 
 
-["2_fibonacci.py"]: <https://github.com/AmandaWillrich/targetsystemschallenge/2_fibonaccy.py>
-["3_faturamento"]: <https://github.com/AmandaWillrich/targetsystemschallenge/3_faturamento.py>
-["4_faturamento_estado"]: <https://github.com/AmandaWillrich/targetsystemschallenge/4_faturamento_estado.py>
-["5_string_invertida"]: <https://github.com/AmandaWillrich/targetsystemschallenge/5_string_invertida.py>
+["2_fibonacci"]: <https://github.com/AmandaWillrich/targetsystemschallenge/blob/main/2_fibonacci.py>
+["3_faturamento"]: <https://github.com/AmandaWillrich/targetsystemschallenge/blob/main/3_faturamento.py>
+["4_faturamento_estado"]: <https://github.com/AmandaWillrich/targetsystemschallenge/blob/main/4_faturamento_estado.py>
+["5_string_invertida"]: <https://github.com/AmandaWillrich/targetsystemschallenge/blob/main/5_string_invertida.py>
