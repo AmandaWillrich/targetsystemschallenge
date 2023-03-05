@@ -49,7 +49,7 @@ b) Evite usar funções prontas, como, por exemplo, reverse;**
 
 
 
-["2_fibonacci"]: <https://github.com/AmandaWillrich/targetsystemschallenge/blob/main/2_fibonacci.py>
-["3_faturamento"]: <https://github.com/AmandaWillrich/targetsystemschallenge/blob/main/3_faturamento.py>
-["4_faturamento_estado"]: <https://github.com/AmandaWillrich/targetsystemschallenge/blob/main/4_faturamento_estado.py>
-["5_string_invertida"]: <https://github.com/AmandaWillrich/targetsystemschallenge/blob/main/5_string_invertida.py>
+["2_fibonacci"]: <https://github.com/AmandaWillrich/targetsystemschallenge/blob/main/challenge/2_fibonacci.py>
+["3_faturamento"]: <https://github.com/AmandaWillrich/targetsystemschallenge/blob/main/challenge/3_faturamento.py>
+["4_faturamento_estado"]: <https://github.com/AmandaWillrich/targetsystemschallenge/blob/main/challenge/4_faturamento_estado.py>
+["5_string_invertida"]: <https://github.com/AmandaWillrich/targetsystemschallenge/blob/main/challenge/5_string_invertida.py>
